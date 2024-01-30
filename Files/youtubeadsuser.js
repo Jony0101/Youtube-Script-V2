@@ -13,4 +13,5 @@
 // @updateURL https://github.com/Jony0101/Youtube-Script-V2/raw/main/Files/youtubeadsmin.js
 
 // ==/UserScript==
+
 //Automatically Skips youtube ads :)
