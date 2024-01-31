@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Youtube Ads Skipper
+// @name         Youtube Ads Skipper V2
 // @namespace    https://www.youtube.com/
 // @version      2.0
 // @description  Automatically Skips Youtube Ads
